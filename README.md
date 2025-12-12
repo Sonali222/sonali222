@@ -7,7 +7,7 @@ My work focuses on ETL development, data modeling, cloud data platforms, and per
 
 ---
 
-### 🔹 Core Data Engineering Skills
+### Core Data Engineering Skills
 
 **Languages & Querying**  
 Python (Pandas, NumPy), SQL  
@@ -29,7 +29,7 @@ Tableau, Excel
 
 ---
 
-### 🔹 Professional Experience Snapshot
+### Professional Experience Snapshot
 
 - Built and maintained production-style ETL pipelines supporting analytics and reporting  
 - Processed large healthcare and public datasets with strict data quality and compliance requirements  
@@ -39,7 +39,7 @@ Tableau, Excel
 
 ---
 
-### 🔹 Featured Projects
+### Featured Projects
 
 **Inclusive Job Recommendation Platform**  
 LLM-powered job matching platform using Streamlit and Gemini API. Designed ingestion pipelines, normalized job datasets, and built analytics-ready tables with accessibility-focused features.
@@ -55,7 +55,7 @@ Data preprocessing, EDA, and Tableau dashboards analyzing operational delays and
 
 ---
 
-### 🔹 What I’m Currently Working On
+###  What I’m Currently Working On
 
 - Strengthening Spark and cloud-based data processing at scale  
 - Improving pipeline observability, monitoring, and reliability  
@@ -63,7 +63,7 @@ Data preprocessing, EDA, and Tableau dashboards analyzing operational delays and
 
 ---
 
-### 🔹 Education & Highlights
+### Education & Highlights
 
 Master of Science in Management Information Systems  
 University of Illinois Chicago  
@@ -72,9 +72,3 @@ Former Data Engineer at Cerner, working on healthcare data platforms
 Research and volunteer work focused on accessibility and disability data analytics  
 
 ---
-
-### 🔹 Connect With Me
-
-LinkedIn: https://linkedin.com/in/your-link  
-GitHub: https://github.com/sonali222  
-Email: your@email.com
