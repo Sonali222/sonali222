@@ -9,23 +9,17 @@ My work focuses on ETL development, data modeling, cloud data platforms, and per
 
 ### Core Data Engineering Skills
 
-**Languages & Querying**  
-Python (Pandas, NumPy), SQL  
+**Languages & Querying**  Python (Pandas, NumPy), SQL  
 
-**Data Engineering**  
-ETL Pipelines, Data Modeling (Star & Snowflake schemas), Data Quality & Validation, Analytics Engineering  
+**Data Engineering**  ETL Pipelines, Data Modeling (Star & Snowflake schemas), Data Quality & Validation, Analytics Engineering  
 
-**Big Data Processing**  
-Apache Spark, PySpark, Spark SQL  
+**Big Data Processing**  Apache Spark, PySpark, Spark SQL  
 
-**Cloud & Warehousing**  
-AWS (S3, EC2, Lambda, Glue, CloudWatch), Snowflake, Redshift  
+**Cloud & Warehousing**  AWS (S3, EC2, Lambda, Glue, CloudWatch), GCP (BigQuery, Cloud Storage, Cloud Functions, IAM), Snowflake, Redshift
 
-**Orchestration & Dev Tools**  
-Airflow, Docker, Git  
+**Orchestration & Dev Tools**  Airflow, Docker, Git  
 
-**Analytics & Visualization**  
-Tableau, Excel  
+**Analytics & Visualization**  Tableau, Excel  
 
 ---
 
