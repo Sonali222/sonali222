@@ -55,14 +55,6 @@ Data preprocessing, EDA, and Tableau dashboards analyzing operational delays and
 
 ---
 
-###  What I’m Currently Working On
-
-- Strengthening Spark and cloud-based data processing at scale  
-- Improving pipeline observability, monitoring, and reliability  
-- Applying data engineering best practices for production readiness  
-
----
-
 ### Education & Highlights
 
 Master of Science in Management Information Systems  
