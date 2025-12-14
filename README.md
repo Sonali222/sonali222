@@ -1,4 +1,4 @@
-## Hi, I’m Sonali Chandra 👋  
+## Hi, I’m Sonali!
 **Data Engineer | Healthcare Data | Cloud & Analytics**
 
 I’m a Data Engineer with experience designing, building, and maintaining scalable data pipelines for analytics and reporting. I’ve worked extensively with healthcare and public datasets, transforming raw and unstructured data into reliable, analytics-ready systems.
